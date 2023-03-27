@@ -1,32 +1,125 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="tabbed.svg"
-   sodipodi:docbase="/home/egore/source/lincity-ng/data/images/gui/buttons/tabbed"
-   inkscape:version="0.41"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:version="0.32"
    id="svg5841"
-   height="100.00000pt"
-   width="120.00000pt"
+   height="97.5pt"
+   width="112.5pt"
    inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttons/tabbed/tabbed-hover.png"
    inkscape:export-xdpi="24.000000"
-   inkscape:export-ydpi="24.000000">
+   inkscape:export-ydpi="24.000000"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1539">
+      <stop
+         style="stop-color:#5d7add;stop-opacity:1;"
+         offset="0"
+         id="stop1535" />
+      <stop
+         style="stop-color:#7facea;stop-opacity:1;"
+         offset="1"
+         id="stop1537" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11066">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop11058" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.80885231;"
+         offset="0.50933164"
+         id="stop11060" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5554055;"
+         offset="0.50933164"
+         id="stop11062" />
+      <stop
+         style="stop-color:#228ff0;stop-opacity:0.67034674;"
+         offset="1"
+         id="stop11064" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10831">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop10823" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.80885231;"
+         offset="0.50933164"
+         id="stop10825" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5554055;"
+         offset="0.50933164"
+         id="stop10827" />
+      <stop
+         style="stop-color:#007ff1;stop-opacity:0.08639357;"
+         offset="1"
+         id="stop10829" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8831"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#5a769d;stop-opacity:1;"
+         offset="0"
+         id="stop8827" />
+      <stop
+         style="stop-color:#5a769d;stop-opacity:0;"
+         offset="1"
+         id="stop8829" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8819">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop8815" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.80885231;"
+         offset="0.50933164"
+         id="stop8821" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5554055;"
+         offset="0.50933164"
+         id="stop8823" />
+      <stop
+         style="stop-color:#228ff0;stop-opacity:0;"
+         offset="1"
+         id="stop8817" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8352">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop8348" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop8350" />
+    </linearGradient>
     <linearGradient
        y2="294.71729"
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(5.147738e-2,8.605674e-3,-5.724703e-3,3.424387e-2,75.35825,712.3937)"
+       gradientTransform="matrix(0.05147738,0.00860567,-0.0057247,0.03424387,75.35825,712.3937)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4939"
        xlink:href="#linearGradient2900"
@@ -37,7 +130,7 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(4.283577e-2,0.000000,0.000000,4.230263e-2,74.67327,712.1648)"
+       gradientTransform="matrix(0.04283577,0,0,0.04230263,74.67327,712.1648)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4937"
        xlink:href="#linearGradient2130"
@@ -47,7 +140,7 @@
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(5.147738e-2,8.605674e-3,-5.724703e-3,3.424387e-2,86.19294,712.3937)"
+       gradientTransform="matrix(0.05147738,0.00860567,-0.0057247,0.03424387,86.19294,712.3937)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4935"
        xlink:href="#linearGradient2900"
@@ -58,7 +151,7 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(4.283577e-2,0.000000,0.000000,4.230263e-2,85.50803,712.1648)"
+       gradientTransform="matrix(0.04283577,0,0,0.04230263,85.50803,712.1648)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4933"
        xlink:href="#linearGradient2130"
@@ -69,17 +162,17 @@
        fx="142.69258"
        cy="642.58405"
        cx="142.69258"
-       gradientTransform="matrix(2.466187,0.000000,0.000000,0.408841,-152.4062,-216.4038)"
+       gradientTransform="matrix(2.466187,0,0,0.408841,-152.4062,-216.4038)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4931"
        xlink:href="#linearGradient3572"
        inkscape:collect="always" />
     <linearGradient
-       y2="315.58200"
+       y2="315.582"
        x2="362.26712"
        y1="528.35089"
        x1="362.26712"
-       gradientTransform="matrix(1.157577,0.000000,0.000000,1.157577,-208.0488,-280.9944)"
+       gradientTransform="matrix(1.157577,0,0,1.157577,-208.0488,-280.9944)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4929"
        xlink:href="#linearGradient3572"
@@ -89,7 +182,7 @@
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(6.143872e-2,1.027095e-2,-6.832485e-3,4.087037e-2,235.3708,684.1136)"
+       gradientTransform="matrix(0.06143872,0.01027095,-0.00683248,0.04087037,235.3708,684.1136)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4972"
        xlink:href="#linearGradient2900"
@@ -100,7 +193,7 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(5.112491e-2,0.000000,0.000000,5.048860e-2,234.5533,683.8408)"
+       gradientTransform="matrix(0.05112491,0,0,0.0504886,234.5533,683.8408)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4970"
        xlink:href="#linearGradient2130"
@@ -110,7 +203,7 @@
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(1.212334,0.183040,-0.121762,0.806471,82.37292,420.7108)"
+       gradientTransform="matrix(1.212334,0.18304,-0.121762,0.806471,82.37292,420.7108)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4968"
        xlink:href="#linearGradient2900"
@@ -121,7 +214,7 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(1.006284,0.000000,0.000000,0.993756,73.11722,421.5058)"
+       gradientTransform="matrix(1.006284,0,0,0.993756,73.11722,421.5058)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4966"
        xlink:href="#linearGradient2130"
@@ -143,7 +236,7 @@
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(1.212334,0.183040,-0.121762,0.806471,228.6046,420.7108)"
+       gradientTransform="matrix(1.212334,0.18304,-0.121762,0.806471,228.6046,420.7108)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4964"
        xlink:href="#linearGradient2900"
@@ -165,7 +258,7 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(1.006284,0.000000,0.000000,0.993756,218.9398,421.5058)"
+       gradientTransform="matrix(1.006284,0,0,0.993756,218.9398,421.5058)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4962"
        xlink:href="#linearGradient2130"
@@ -186,7 +279,7 @@
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(5.147738e-2,8.605674e-3,-5.724703e-3,3.424387e-2,12.76315,57.26500)"
+       gradientTransform="matrix(0.05147738,0.00860567,-0.0057247,0.03424387,12.76315,57.265)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient5900"
        xlink:href="#linearGradient2900"
@@ -197,7 +290,7 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(4.283577e-2,0.000000,0.000000,4.230263e-2,12.07817,57.03610)"
+       gradientTransform="matrix(0.04283577,0,0,0.04230263,12.07817,57.0361)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient5903"
        xlink:href="#linearGradient2130"
@@ -207,7 +300,7 @@
        x2="222.74394"
        y1="45.531235"
        x1="79.663109"
-       gradientTransform="matrix(5.147738e-2,8.605674e-3,-5.724703e-3,3.424387e-2,23.59784,57.26500)"
+       gradientTransform="matrix(0.05147738,0.00860567,-0.0057247,0.03424387,23.59784,57.265)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient5906"
        xlink:href="#linearGradient2900"
@@ -218,99 +311,130 @@
        fx="233.28516"
        cy="295.41855"
        cx="233.28516"
-       gradientTransform="matrix(4.283577e-2,0.000000,0.000000,4.230263e-2,22.91293,57.03610)"
+       gradientTransform="matrix(0.04283577,0,0,0.04230263,22.91293,57.0361)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient5910"
        xlink:href="#linearGradient2130"
        inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10831"
+       id="radialGradient8813"
+       cx="66.898582"
+       cy="-16.393244"
+       fx="66.898582"
+       fy="-16.393244"
+       r="61.111839"
+       gradientTransform="matrix(-4.962908,0,5.1363978e-8,-1.6182703,398.91009,-31.257844)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8819"
+       id="radialGradient11046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.962908,0,5.1363978e-8,-1.6182703,398.91009,-31.257844)"
+       cx="66.898582"
+       cy="-16.393244"
+       fx="66.898582"
+       fy="-16.393244"
+       r="61.111839" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient3235"
-       gradientUnits="userSpaceOnUse"
-       x1="63.799751"
-       y1="92.719894"
-       x2="63.799751"
-       y2="17.526787" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient3237"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.327601,0.753238)"
-       x1="47.899021"
-       y1="14.893488"
-       x2="47.899021"
-       y2="32.709442" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient4007"
-       gradientUnits="userSpaceOnUse"
-       x1="65.366478"
-       y1="51.760956"
-       x2="65.366478"
-       y2="16.246834" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient4009"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.327601,0.753238)"
-       x1="51.888500"
-       y1="9.9966040"
-       x2="51.888500"
-       y2="24.573294" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient4779"
-       gradientUnits="userSpaceOnUse"
-       x1="65.366478"
-       y1="51.760956"
-       x2="65.366478"
-       y2="16.246834" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient4781"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.327601,0.753238)"
-       x1="51.888500"
-       y1="9.9966040"
-       x2="51.888500"
-       y2="24.573294" />
+       xlink:href="#linearGradient1539"
+       id="linearGradient1541"
+       x1="81.333977"
+       y1="5.6587839"
+       x2="81.333977"
+       y2="127.44015"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
      showguides="true"
-     inkscape:window-y="263"
-     inkscape:window-x="567"
-     inkscape:window-height="742"
-     inkscape:window-width="708"
+     inkscape:window-y="391"
+     inkscape:window-x="549"
+     inkscape:window-height="924"
+     inkscape:window-width="1484"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="33.871015"
-     inkscape:cx="81.441852"
-     inkscape:zoom="2.1731748"
+     inkscape:cy="59.412721"
+     inkscape:cx="140.94446"
+     inkscape:zoom="1.9440281"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8423"
+       originx="7.1054274e-14"
+       originy="-3.9999998e-06" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="150"
+       height="130"
+       id="page8425"
+       inkscape:label="tabbed-clicked"
+       inkscape:export-filename="./tabbed-clicked.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <inkscape:page
+       x="165.92345"
+       y="0"
+       width="150.37982"
+       height="129.99998"
+       id="page8591"
+       inkscape:label="tabbed-hover"
+       inkscape:export-filename="tabbed-hover.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <inkscape:page
+       x="330.57318"
+       y="-0.034473605"
+       width="150.18546"
+       height="130.03447"
+       id="page8595"
+       inkscape:label="tabbed"
+       inkscape:export-filename="./tabbed.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
+    <sodipodi:guide
+       position="-0.37982,105.76751"
+       orientation="1,0"
+       id="guide8597"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="150,115.86438"
+       orientation="1,0"
+       id="guide8599"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="59.57155,130"
+       orientation="0,-1"
+       id="guide8601"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="113.42153,3.9999998e-06"
+       orientation="0,-1"
+       id="guide8603"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         id="Work6"
          rdf:about="">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-           id="type9" />
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -318,111 +442,26 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <g
-       id="g4769"
-       transform="matrix(1.000000,0.000000,0.000000,0.920354,2.344000,218.5240)">
-      <path
-         id="path4771"
-         d="M 25.073920,0.81862925 C 38.472171,0.81862925 111.68635,0.81862925 125.08460,0.81862925 C 138.48285,0.81862925 149.26917,11.604947 149.26917,25.003198 L 149.25765,49.151828 L 0.90087370,49.151828 L 0.88935130,25.003198 C 0.88935130,11.604947 11.675669,0.81862925 25.073920,0.81862925 z "
-         style="fill:#575757;fill-opacity:1.0000000;stroke:#222222;stroke-width:0.71733892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-         sodipodi:nodetypes="ccccccc" />
-      <g
-         id="g4773"
-         transform="matrix(1.202713,0.000000,0.000000,1.223514,-4.212566,-3.621840)"
-         inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttons/button-round-checked.png"
-         inkscape:export-xdpi="110.25864"
-         inkscape:export-ydpi="110.25864">
-        <rect
-           style="fill:url(#linearGradient4779);fill-opacity:1.0000000;stroke:none;stroke-width:0.58344406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-           id="rect4775"
-           width="120.71725"
-           height="37.563015"
-           x="6.2184892"
-           y="4.2949648"
-           rx="18.781507"
-           ry="18.672171"
-           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
-           inkscape:export-xdpi="13.150000"
-           inkscape:export-ydpi="13.150000" />
-        <rect
-           style="opacity:0.67948717;fill:url(#linearGradient4781);fill-opacity:1.0000000;stroke:none;stroke-width:13.632646;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-           id="rect4777"
-           width="108.73270"
-           height="15.249610"
-           x="11.561118"
-           y="4.7848940"
-           rx="13.438874"
-           ry="7.1030049"
-           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
-           inkscape:export-xdpi="13.150000"
-           inkscape:export-ydpi="13.150000" />
-      </g>
-    </g>
-    <g
-       id="g3997"
-       transform="translate(2.344000,164.5754)">
-      <path
-         id="path3999"
-         d="M 25.073920,0.81862925 C 38.472171,0.81862925 111.68635,0.81862925 125.08460,0.81862925 C 138.48285,0.81862925 149.26917,11.604947 149.26917,25.003198 L 149.25765,49.151828 L 0.90087370,49.151828 L 0.88935130,25.003198 C 0.88935130,11.604947 11.675669,0.81862925 25.073920,0.81862925 z "
-         style="fill:#d0d0d0;fill-opacity:1.0000000;stroke:#ffffff;stroke-width:0.71733892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-         sodipodi:nodetypes="ccccccc" />
-      <g
-         id="g4001"
-         transform="matrix(1.202713,0.000000,0.000000,1.223514,-4.212566,-3.621840)"
-         inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttons/button-round-checked.png"
-         inkscape:export-xdpi="110.25864"
-         inkscape:export-ydpi="110.25864">
-        <rect
-           style="fill:url(#linearGradient4007);fill-opacity:1.0000000;stroke:none;stroke-width:0.58344406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-           id="rect4003"
-           width="120.71725"
-           height="37.563015"
-           x="6.2184892"
-           y="4.2949648"
-           rx="18.781507"
-           ry="17.185011"
-           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
-           inkscape:export-xdpi="13.150000"
-           inkscape:export-ydpi="13.150000" />
-        <rect
-           style="opacity:0.67948717;fill:url(#linearGradient4009);fill-opacity:1.0000000;stroke:none;stroke-width:13.632646;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-           id="rect4005"
-           width="108.73270"
-           height="15.249610"
-           x="11.561118"
-           y="4.7848940"
-           rx="13.438874"
-           ry="6.5372806"
-           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
-           inkscape:export-xdpi="13.150000"
-           inkscape:export-ydpi="13.150000" />
-      </g>
-    </g>
     <path
        id="button-bg-normal"
-       d="M 25.073920,0.92327625 C 38.472171,0.92327625 111.68635,0.92327625 125.08460,0.92327625 C 138.48285,0.92327625 149.26917,11.709594 149.26917,25.107845 L 149.25765,124.26449 L 0.90087324,124.26449 L 0.88935084,25.107845 C 0.88935084,11.709594 11.675669,0.92327625 25.073920,0.92327625 z "
-       style="fill:#d0d0d0;fill-opacity:1.0000000;stroke:#222222;stroke-width:0.71733892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="m 24.804749,5.658784 c 13.398251,0 86.612431,0 100.010681,0 13.39825,0 24.18457,10.78632 24.18457,24.18457 L 148.9885,129 H 0.6317 L 0.6202,29.843354 c 0,-13.39825 10.786318,-24.18457 24.184569,-24.18457 z"
+       style="fill:#d0d0d0;fill-opacity:1;stroke:#b9c8f8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="ccccccc" />
     <path
        id="button-bg-hover"
-       d="M 25.073920,0.92327625 C 38.472171,0.92327625 111.68635,0.92327625 125.08460,0.92327625 C 138.48285,0.92327625 149.26917,11.709594 149.26917,25.107845 L 149.25765,124.26449 L 0.90087324,124.26449 L 0.88935084,25.107845 C 0.88935084,11.709594 11.675669,0.92327625 25.073920,0.92327625 z "
-       style="fill:#5a769d;fill-opacity:1.0000000;stroke:#1a2584;stroke-width:0.71733892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       id="button-bg-checked1"
-       d="M 25.073920,0.92327625 C 38.472171,0.92327625 111.68635,0.92327625 125.08460,0.92327625 C 138.48285,0.92327625 149.26917,11.709594 149.26917,25.107845 L 149.25765,124.26449 L 0.90087324,124.26449 L 0.88935084,25.107845 C 0.88935084,11.709594 11.675669,0.92327625 25.073920,0.92327625 z "
-       style="fill:#002457;fill-opacity:1.0000000;stroke:#222222;stroke-width:0.71733892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="m 24.804749,5.658784 c 13.398251,0 86.612431,0 100.010681,0 13.39825,0 24.18457,10.78632 24.18457,24.18457 L 148.9885,129 H 0.6317 L 0.6202,29.843354 c 0,-13.39825 10.786318,-24.18457 24.184569,-24.18457 z"
+       style="fill:url(#linearGradient1541);fill-opacity:1;stroke:none;stroke-width:0.717339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        sodipodi:nodetypes="ccccccc" />
     <g
        id="g3229"
-       transform="matrix(1.202713,0.000000,0.000000,1.223514,-4.212566,-3.517193)"
+       transform="matrix(1.202713,0,0,1.223514,-4.48174,1.218314)"
        inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttons/button-round-checked.png"
        inkscape:export-xdpi="110.25864"
        inkscape:export-ydpi="110.25864">
       <rect
-         style="stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:0.58344406;stroke:none;fill-opacity:1.0;fill:url(#linearGradient3235)"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.583444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
          id="rect3231"
-         width="120.06760"
+         width="120.0676"
          height="87.098679"
          x="6.2184892"
          y="16.064699"
@@ -431,18 +470,62 @@
          inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
          inkscape:export-xdpi="13.150000"
          inkscape:export-ydpi="13.150000" />
-      <rect
-         style="stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:13.632646;stroke:none;fill-opacity:1.0;fill:url(#linearGradient3237);opacity:0.67948717"
-         id="rect3233"
-         width="108.73270"
-         height="15.249610"
-         x="11.561118"
-         y="5.4234920"
-         rx="13.438874"
-         ry="7.6248050"
-         inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
-         inkscape:export-xdpi="13.150000"
-         inkscape:export-ydpi="13.150000" />
+    </g>
+    <path
+       id="button-bg-checked1-6"
+       d="m 190.434,7.2337524 c 13.57885,0 87.77988,0 101.35873,0 13.57885,0 24.51055,10.7863196 24.51055,24.1845696 l -0.0117,99.156648 H 165.93513 l -0.0117,-99.156648 c 0,-13.39825 10.9317,-24.1845696 24.51055,-24.1845696 z"
+       style="fill:#b3c0e9;fill-opacity:1;stroke:none;stroke-width:0.722157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc" />
+    <g
+       id="g3997-6"
+       transform="matrix(1.0229921,0,0,1.0348292,167.03216,11.873516)">
+      <g
+         id="g4001-9"
+         transform="matrix(1.202713,0,0,1.223514,-8.0436046,1.3025703)"
+         inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttons/button-round-checked.png"
+         inkscape:export-xdpi="110.25864"
+         inkscape:export-ydpi="110.25864">
+        <rect
+           style="opacity:0.555658;fill:url(#radialGradient8813);fill-opacity:1;stroke:none;stroke-width:0.583444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="rect4003-1"
+           width="122.22368"
+           height="111.8484"
+           x="5.786746"
+           y="-4.7291436"
+           rx="18.781507"
+           ry="17.185011"
+           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
+           inkscape:export-xdpi="13.150000"
+           inkscape:export-ydpi="13.150000" />
+      </g>
+    </g>
+    <path
+       id="path8661"
+       d="m 354.98655,7.2337524 c 13.57885,0 87.77988,0 101.35873,0 13.57885,0 24.51055,10.7863196 24.51055,24.1845696 l -0.0117,99.156648 H 330.48768 l -0.0117,-99.156648 c 0,-13.39825 10.9317,-24.1845696 24.51055,-24.1845696 z"
+       style="fill:#b3c0e9;fill-opacity:1;stroke:none;stroke-width:0.722157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc" />
+    <g
+       id="g11044"
+       transform="matrix(1.0229921,0,0,1.0348292,333.33544,11.873516)">
+      <g
+         id="g11042"
+         transform="matrix(1.202713,0,0,1.223514,-8.0436046,1.3025703)"
+         inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttons/button-round-checked.png"
+         inkscape:export-xdpi="110.25864"
+         inkscape:export-ydpi="110.25864">
+        <rect
+           style="opacity:0.289327;fill:url(#radialGradient11046);fill-opacity:1;stroke:none;stroke-width:0.583444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+           id="rect11040"
+           width="122.22368"
+           height="113.13274"
+           x="4.3638105"
+           y="-4.7291436"
+           rx="18.781507"
+           ry="17.185011"
+           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
+           inkscape:export-xdpi="13.150000"
+           inkscape:export-ydpi="13.150000" />
+      </g>
     </g>
   </g>
 </svg>

@@ -1,23 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="50.000000px"
    height="200.00000px"
    id="svg5841"
    sodipodi:version="0.32"
-   inkscape:version="0.41"
-   sodipodi:docbase="/home/egore/source/lincity-ng/data/images/gui/buttons/round"
-   sodipodi:docname="button-round.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="button-round.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4889">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4885" />
+      <stop
+         style="stop-color:#ababab;stop-opacity:0;"
+         offset="1"
+         id="stop4887" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient927"
+       inkscape:collect="always">
+      <stop
+         id="stop923"
+         offset="0"
+         style="stop-color:#4f76a8;stop-opacity:1;" />
+      <stop
+         id="stop925"
+         offset="1"
+         style="stop-color:#23426e;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2900"
@@ -83,7 +108,7 @@
        y2="315.58200" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3572"
+       xlink:href="#linearGradient927"
        id="linearGradient4953"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.954811,0.000000,0.000000,0.954811,-108.7130,-686.8166)"
@@ -189,16 +214,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3572"
-       id="linearGradient4940"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.064551,0.000000,0.000000,0.603992,-121.3425,-547.3395)"
-       x1="137.11369"
-       y1="916.76855"
-       x2="137.11369"
-       y2="937.80872" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2900"
@@ -321,6 +336,15 @@
        id="linearGradient4210"
        xlink:href="#linearGradient3572"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4889"
+       id="linearGradient4891"
+       x1="4.5934324"
+       y1="2.6699045"
+       x2="4.152195"
+       y2="44.009235"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -329,41 +353,45 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6491141"
-     inkscape:cx="13.923216"
-     inkscape:cy="58.065115"
+     inkscape:zoom="2"
+     inkscape:cx="-27"
+     inkscape:cy="86.25"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:window-width="766"
-     inkscape:window-height="717"
-     inkscape:window-x="-1"
-     inkscape:window-y="5"
+     inkscape:current-layer="g5927"
+     inkscape:window-width="1250"
+     inkscape:window-height="964"
+     inkscape:window-x="925"
+     inkscape:window-y="120"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="horizontal"
        position="49.810008"
-       id="guide1336" />
+       id="guide1336"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="99.815349"
-       id="guide1338" />
+       id="guide1338"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="horizontal"
        position="149.82069"
-       id="guide1340" />
+       id="guide1340"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
-    <rdf:RDF
-       id="RDF5">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work6">
-        <dc:format
-           id="format7">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type9"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
@@ -380,7 +408,10 @@
       <path
          style="stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:0.71733892;stroke:#222222;fill-opacity:1.0000000;fill:#002457"
          d="M 25.073920,0.81862925 C 38.472171,0.81862925 49.258489,11.604947 49.258489,25.003198 C 49.258489,38.401449 38.472171,49.187767 25.073920,49.187767 C 11.675669,49.187767 0.88935130,38.401449 0.88935130,25.003198 C 0.88935130,11.604947 11.675669,0.81862925 25.073920,0.81862925 z "
-         id="rect4031" />
+         id="rect4031"
+         inkscape:export-filename="button-round-checked-40.png"
+         inkscape:export-xdpi="78.229286"
+         inkscape:export-ydpi="78.229286" />
       <g
          inkscape:export-ydpi="110.25864"
          inkscape:export-xdpi="110.25864"
@@ -398,19 +429,7 @@
            height="37.563015"
            width="37.563015"
            id="rect3396"
-           style="fill:url(#linearGradient4953);fill-opacity:1.0000000;stroke:none;stroke-width:0.58344406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
-        <rect
-           inkscape:export-ydpi="13.150000"
-           inkscape:export-xdpi="13.150000"
-           inkscape:export-filename="/home/egore/source/lincity-ng/data/images/gui/buttonpanel/background/button-checked.png"
-           ry="25.169258"
-           rx="25.169258"
-           y="4.7848940"
-           x="11.561118"
-           height="15.249610"
-           width="26.877748"
-           id="rect1860"
-           style="opacity:0.67948717;fill:url(#linearGradient4940);fill-opacity:1.0000000;stroke:none;stroke-width:13.632646;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+           style="fill:url(#linearGradient4953);fill-opacity:1;stroke:url(#linearGradient4891);stroke-width:1.66290711;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       </g>
     </g>
     <g

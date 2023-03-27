@@ -1,73 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="90.000000"
-   inkscape:export-xdpi="90.000000"
-   inkscape:export-filename="/home/matze/projects/lincity-ng/data/images/gui/mapview/minimap_bg.png"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="minimap_bg.png"
    id="svg1340"
    sodipodi:version="0.32"
-   inkscape:version="0.41"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    width="384.00000px"
    height="270.00000px"
-   sodipodi:docbase="/home/matze/projects/lincity-ng/data/images/gui/mapview"
-   sodipodi:docname="minimap_bg.svg">
+   sodipodi:docname="minimap_bg.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata1345">
-    <rdf:RDF
-       id="RDF1347">
+    <rdf:RDF>
       <cc:Work
-         rdf:about=""
-         id="Work1349">
-        <dc:format
-           id="format1351">image/svg+xml</dc:format>
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-           id="type1353"
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title
-           id="title2945">Right Border of Lincity NG</dc:title>
-        <dc:date
-           id="date2947">2005-05-28</dc:date>
-        <dc:creator
-           id="creator2949">
-          <cc:Agent
-             id="Agent2951">
-            <dc:title
-               id="title2953">Christoph Brill</dc:title>
+        <dc:title>Right Border of Lincity NG</dc:title>
+        <dc:date>2005-05-28</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christoph Brill</dc:title>
           </cc:Agent>
         </dc:creator>
         <cc:license
-           id="license2955"
            rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/2.0/"
-         id="License2957">
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction"
-           id="permits2959" />
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution"
-           id="permits2961" />
+           rdf:resource="http://web.resource.org/cc/Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice"
-           id="requires2963" />
+           rdf:resource="http://web.resource.org/cc/Notice" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Attribution"
-           id="requires2965" />
+           rdf:resource="http://web.resource.org/cc/Attribution" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
-           id="permits2967" />
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike"
-           id="requires2969" />
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
@@ -77,11 +61,15 @@
        inkscape:collect="always"
        id="linearGradient2135">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.50344825;"
          offset="0"
          id="stop2137" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.2092393"
+         id="stop2237" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.49655944;"
          offset="1"
          id="stop2139" />
     </linearGradient>
@@ -90,10 +78,10 @@
        xlink:href="#linearGradient2135"
        id="linearGradient2141"
        gradientTransform="scale(1.992020,0.502003)"
-       x1="91.766640"
-       y1="547.62659"
-       x2="91.766640"
-       y2="241.90137"
+       x1="95.380569"
+       y1="537.8454"
+       x2="95.380569"
+       y2="348.60349"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -103,19 +91,29 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="540"
-     inkscape:zoom="0.97294509"
-     inkscape:cx="203.80823"
-     inkscape:cy="20.665832"
-     inkscape:window-x="439"
-     inkscape:window-y="390"
-     inkscape:current-layer="svg1340" />
+     inkscape:window-width="1540"
+     inkscape:window-height="867"
+     inkscape:zoom="1.7346213"
+     inkscape:cx="126.25234"
+     inkscape:cy="285.36488"
+     inkscape:window-x="495"
+     inkscape:window-y="378"
+     inkscape:current-layer="svg1340"
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#202020"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3890" />
+  </sodipodi:namedview>
   <path
-     style="stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.2500000;stroke:#afafaf;fill-rule:evenodd;fill-opacity:1.0;fill:url(#linearGradient2141)"
-     d="M 0.090846183,270.90846 L 384.82443,271.09015 L 384.73359,174.06643 L 175.42398,173.97558 C 148.95746,211.73731 88.332772,252.04273 0.090846183,270.90846 z "
+     style="fill:url(#linearGradient2141);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 0.09084618,270.90846 384.73358382,0.18169 -0.0908,-97.02372 -194.82968,-0.0846 c -13.3517,-0.006 -19.69375,7.38449 -24.19205,12.23092 -30.86643,33.2552 -86.865597,67.85812 -165.62101382,84.69568 z"
      id="path1361"
-     sodipodi:nodetypes="ccccc" />
+     sodipodi:nodetypes="cccssc" />
   <path
      style="fill:#000000"
      d=""
